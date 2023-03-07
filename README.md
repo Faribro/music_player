@@ -331,3 +331,5 @@ export default [
 
 这个项目长期维护，希望大家踊跃提issue和pr，把这个项目打造得更加完美，帮助到更多的react开发者！
 
+#   m u s i c _ p l a y e r  
+ 
